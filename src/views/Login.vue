@@ -50,8 +50,8 @@ export default {
   name: 'Login',
   data() {
     return {
-      username: 'polale3124@leupus.com',
-      password: 'JZe5JsnBRvYef2j',
+      username: '',
+      password: '',
       isLoginProcessing: false,
     };
   },
